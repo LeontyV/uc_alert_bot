@@ -14,7 +14,9 @@ CRLs = {
 	'udc_2018_gost2012': 'http://www.udc.rkomi.ru/certsrv/cit-gov2018_gost12.crl',
 	'ca_2018_gost2012': 'http://www.ca.rkomi.ru/ra/cdp/cit-gov2018_gost12.crl',
 	'ca_cit-gov2019.crl': 'http://www.ca.rkomi.ru/ra/cdp/cit-gov2019.crl',
-	'udc_cit-gov2019.crl': 'http://www.udc.rkomi.ru/certsrv/cit-gov2019.crl'
+	'udc_cit-gov2019.crl': 'http://www.udc.rkomi.ru/certsrv/cit-gov2019.crl',
+	'ca_cit-gov2020.crl': 'http://www.ca.rkomi.ru/ra/cdp/cit-gov2020.crl',
+	'udc_cit-gov2020.crl': 'http://www.udc.rkomi.ru/certsrv/cit-gov2020.crl'
 }
 status_crl = {
 	'ca_2018': '',
@@ -24,7 +26,9 @@ status_crl = {
 	'udc_2018_gost2012': '',
 	'ca_2018_gost2012': '',
 	'ca_cit-gov2019.crl': '',
-	'udc_cit-gov2019.crl': ''
+	'udc_cit-gov2019.crl': '',
+	'ca_cit-gov2020.crl': '',
+	'udc_cit-gov2020.crl': ''
 }
 
 
